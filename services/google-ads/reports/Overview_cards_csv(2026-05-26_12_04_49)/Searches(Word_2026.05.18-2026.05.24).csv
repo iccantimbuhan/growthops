@@ -1,0 +1,106 @@
+Word,Cost,Clicks,Impressions,Conversions,Top Containing Queries
+drain,$40.45,3,33,0.00,"(drain cleaning near me, air conditioner drain line backed up, drain weasel)"
+clogged,$40.64,3,28,0.00,"(bathtub clogged up, clogged toilet with poop, clogged tub)"
+sink,$27.00,2,23,0.00,"(bathroom sink drains slow, kitchen sink clogged, unclog bathroom sink)"
+toilet,$0.00,0,16,0.00,"(unclogging a toilet, can you pour hot water down a toilet to unclog it, clogged toilet with poop)"
+unclog,$9.99,1,12,0.00,"(can you pour hot water down a toilet to unclog it, unclog bathroom sink, dawn to unclog toilet)"
+kitchen,$20.17,2,10,0.00,"(kitchen sink clogged, cleaning kitchen sink drain, clogged kitchen sink)"
+cleaning,$0.00,0,10,0.00,"(drain cleaning near me, cleaning bathroom sink drain, cleaning clogged bathroom sink)"
+bathroom,$0.00,0,9,0.00,"(bathroom sink drains slow, unclog bathroom sink, bathroom sink drain slow)"
+a,$0.00,0,9,0.00,"(unclogging a toilet, can you pour hot water down a toilet to unclog it, does pouring hot water down a sink unclog it)"
+up,$8.60,1,7,0.00,"(air conditioner drain line backed up, bathtub clogged up, basement water drain backing up)"
+unclogging,$0.00,0,6,0.00,"(unclogging a toilet, remedies for unclogging a toilet, unclogging a toilet with dawn)"
+to unclog,$0.00,0,5,0.00,"(can you pour hot water down a toilet to unclog it, dawn to unclog toilet, easiest way to unclog bathroom sink)"
+draining,$0.00,0,5,0.00,"(dishwasher not draining, draining bathtub, insinkerator not draining water)"
+it,$8.60,1,5,0.00,"(can you pour hot water down a toilet to unclog it, does pouring hot water down a sink unclog it, drains back up when it rains)"
+slow,$0.00,0,5,0.00,"(bathroom sink drains slow, bathroom sink drain slow, kitchen sink is draining slow)"
+near me,$0.00,0,5,0.00,"(drain cleaning near me, roto rooter near me)"
+water,$0.00,0,5,0.00,"(can you pour hot water down a toilet to unclog it, basement water drain backing up, does pouring hot water down a sink unclog it)"
+line,$0.00,0,5,0.00,"(air conditioner drain line backed up, cleaning condensate line, clogged condensate drain line)"
+with,$0.00,0,5,0.00,"(clogged toilet with poop, sink with garbage disposal not draining, unclog toilet with poop still in it)"
+bathtub,$0.00,0,4,0.00,"(bathtub clogged up, clogged bathtub, draining bathtub)"
+drains,$8.60,1,4,0.00,"(bathroom sink drains slow, drains back up when it rains, just drains)"
+shower drain,$0.00,0,4,0.00,"(cleaning hair out of shower drain, shower drain hair remover, unclog shower drain)"
+clean,$0.00,0,4,0.00,"(clean clogged toilet, clean out ac drain, clean tub drain)"
+tub,$0.00,0,3,0.00,"(clogged tub, clean tub drain)"
+down a,$0.00,0,3,0.00,"(can you pour hot water down a toilet to unclog it, does pouring hot water down a sink unclog it)"
+hot water,$0.00,0,3,0.00,"(can you pour hot water down a toilet to unclog it, does pouring hot water down a sink unclog it)"
+not draining,$0.00,0,3,0.00,"(dishwasher not draining, insinkerator not draining water, sink with garbage disposal not draining)"
+with poop,$0.00,0,3,0.00,"(clogged toilet with poop, unclog toilet with poop still in it)"
+backed,$0.00,0,2,0.00,(air conditioner drain line backed up)
+conditioner,$0.00,0,2,0.00,(air conditioner drain line backed up)
+sink is,$0.00,0,2,0.00,"(kitchen sink is clogged but pipes are clear, kitchen sink is draining slow)"
+french drain,$0.00,0,2,0.00,"(clogged french drain, french drain clean)"
+severely,$0.00,0,2,0.00,(severely clogged toilet)
+you,$0.00,0,2,0.00,(can you pour hot water down a toilet to unclog it)
+clog,$0.00,0,2,0.00,"(clog past the p trap, clog toilets)"
+dawn,$0.00,0,2,0.00,"(dawn to unclog toilet, unclogging a toilet with dawn)"
+insinkerator,$0.00,0,2,0.00,"(insinkerator badger clogged, insinkerator not draining water)"
+air,$0.00,0,2,0.00,(air conditioner drain line backed up)
+out,$0.00,0,2,0.00,"(clean out ac drain, cleaning hair out of shower drain)"
+condensate,$0.00,0,2,0.00,"(cleaning condensate line, clogged condensate drain line)"
+backing up,$0.00,0,2,0.00,"(basement water drain backing up, kitchen sink keeps backing up)"
+dr,$0.00,0,2,0.00,"(dr drain plumbing, drain dr plumbing)"
+pipe,$0.00,0,2,0.00,"(drain and pipe unblocker, pipe shield one shot)"
+keeps,$0.00,0,2,0.00,"(kitchen sink keeps backing up, my toilet keeps clogging)"
+plumbing,$0.00,0,2,0.00,"(dr drain plumbing, drain dr plumbing)"
+toilets,$0.00,0,2,0.00,"(both toilets clogged, clog toilets)"
+can,$0.00,0,2,0.00,(can you pour hot water down a toilet to unclog it)
+hair,$0.00,0,2,0.00,"(cleaning hair out of shower drain, shower drain hair remover)"
+rooter,$0.00,0,2,0.00,"(rooter rental, roto rooter near me)"
+pour,$0.00,0,2,0.00,(can you pour hot water down a toilet to unclog it)
+weasel,$0.00,0,2,0.00,(drain weasel)
+way,$0.00,0,2,0.00,"(easiest way to unclog bathroom sink, easy way to unclog a toilet)"
+when,$8.60,1,1,0.00,(drains back up when it rains)
+tried,$0.00,0,1,0.00,(kitchen sink clogged tried everything)
+trap,$0.00,0,1,0.00,(clog past the p trap)
+ac,$0.00,0,1,0.00,(clean out ac drain)
+still,$0.00,0,1,0.00,(unclog toilet with poop still in it)
+skimmer,$0.00,0,1,0.00,(skimmer drain clogged)
+in,$0.00,0,1,0.00,(unclog toilet with poop still in it)
+past,$0.00,0,1,0.00,(clog past the p trap)
+rains,$8.60,1,1,0.00,(drains back up when it rains)
+hammonton,$0.00,0,1,0.00,(drain cleaning hammonton nj)
+millville,$0.00,0,1,0.00,(drain clearing millville)
+easy,$0.00,0,1,0.00,(easy way to unclog a toilet)
+field,$0.00,0,1,0.00,(clogged leach field)
+cloghog,$0.00,0,1,0.00,(cloghog)
+shield,$0.00,0,1,0.00,(pipe shield one shot)
+leach,$0.00,0,1,0.00,(clogged leach field)
+pouring,$0.00,0,1,0.00,(does pouring hot water down a sink unclog it)
+roto,$0.00,0,1,0.00,(roto rooter near me)
+disposal,$0.00,0,1,0.00,(sink with garbage disposal not draining)
+are,$0.00,0,1,0.00,(kitchen sink is clogged but pipes are clear)
+does,$0.00,0,1,0.00,(does pouring hot water down a sink unclog it)
+sewer,$0.00,0,1,0.00,(sewer line clogged)
+scrubber,$0.00,0,1,0.00,(sink drain scrubber)
+everything,$0.00,0,1,0.00,(kitchen sink clogged tried everything)
+grease,$0.00,0,1,0.00,(grease clogged drain)
+one,$0.00,0,1,0.00,(pipe shield one shot)
+clearing,$0.00,0,1,0.00,(drain clearing millville)
+rental,$0.00,0,1,0.00,(rooter rental)
+the,$0.00,0,1,0.00,(clog past the p trap)
+p,$0.00,0,1,0.00,(clog past the p trap)
+remover,$0.00,0,1,0.00,(shower drain hair remover)
+but,$0.00,0,1,0.00,(kitchen sink is clogged but pipes are clear)
+unblocker,$0.00,0,1,0.00,(drain and pipe unblocker)
+vent,$0.00,0,1,0.00,(clogged roof vent)
+remedies,$0.00,0,1,0.00,(remedies for unclogging a toilet)
+dishwasher,$0.00,0,1,0.00,(dishwasher not draining)
+garbage,$0.00,0,1,0.00,(sink with garbage disposal not draining)
+my,$0.00,0,1,0.00,(my toilet keeps clogging)
+both,$0.00,0,1,0.00,(both toilets clogged)
+easiest,$0.00,0,1,0.00,(easiest way to unclog bathroom sink)
+nj,$0.00,0,1,0.00,(drain cleaning hammonton nj)
+basement,$0.00,0,1,0.00,(basement water drain backing up)
+for,$0.00,0,1,0.00,(remedies for unclogging a toilet)
+back,$8.60,1,1,0.00,(drains back up when it rains)
+shot,$0.00,0,1,0.00,(pipe shield one shot)
+and,$0.00,0,1,0.00,(drain and pipe unblocker)
+of,$0.00,0,1,0.00,(cleaning hair out of shower drain)
+just,$0.00,0,1,0.00,(just drains)
+pipes,$0.00,0,1,0.00,(kitchen sink is clogged but pipes are clear)
+roof,$0.00,0,1,0.00,(clogged roof vent)
+clogging,$0.00,0,1,0.00,(my toilet keeps clogging)
+clear,$0.00,0,1,0.00,(kitchen sink is clogged but pipes are clear)
+badger,$0.00,0,1,0.00,(insinkerator badger clogged)
